@@ -3178,3 +3178,7 @@ img.mfp-img {
     bottom: 20px;
   }
 }
+
+.footer-column li:nth-child(2) {
+    font-size: 12px;
+}
