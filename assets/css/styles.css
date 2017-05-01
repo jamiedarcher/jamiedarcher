@@ -2126,7 +2126,7 @@ i-rounded {
 }
 @media (min-width: 768px) {
   .profile-chart .item > span {
-    font-size: 20px;
+    font-size: 11px;
     height: 26px;
     line-height: 26px;
   }
